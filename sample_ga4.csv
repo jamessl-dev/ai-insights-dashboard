@@ -1,0 +1,3 @@
+date,page,device,sessions,bounces,view_item,add_to_cart,purchase
+2025-06-01,/pages/plans,mobile,1000,500,700,300,180
+2025-06-01,/pages/deals,desktop,800,280,500,260,140
